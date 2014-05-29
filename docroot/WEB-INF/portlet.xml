@@ -3,7 +3,7 @@
 <portlet-app xmlns="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" version="2.0">
 	<portlet>
 		<portlet-name>property-buherator</portlet-name>
-		<display-name>Property Buher\u00E1tor</display-name>
+		<display-name>Property Buherator</display-name>
 		<portlet-class>com.liferay.util.bridges.mvc.MVCPortlet</portlet-class>
 		<init-param>
 			<name>view-template</name>
@@ -14,9 +14,9 @@
 			<mime-type>text/html</mime-type>
 		</supports>
 		<portlet-info>
-			<title>Property Buher\u00E1tor</title>
-			<short-title>Property Buher\u00E1tor</short-title>
-			<keywords>Property Buher\u00E1tor</keywords>
+			<title>Property Buherator</title>
+			<short-title>Property Buherator</short-title>
+			<keywords>Property Buherator</keywords>
 		</portlet-info>
 		<security-role-ref>
 			<role-name>administrator</role-name>
