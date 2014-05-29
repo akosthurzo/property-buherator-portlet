@@ -7,11 +7,10 @@ import com.liferay.util.bridges.mvc.MVCPortlet;
  */
 public class EditPropertyAction extends MVCPortlet {
 
-    /**
-     * Default constructor. 
-     */
-    public EditPropertyAction() {
-    }
- 
+	/**
+	 * Default constructor.
+	 */
+	public EditPropertyAction() {
+	}
 
 }
